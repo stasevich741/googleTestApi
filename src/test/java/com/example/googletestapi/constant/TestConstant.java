@@ -3,7 +3,7 @@ package com.example.googletestapi.constant;
 public class TestConstant {
     public static class RunVariable {
         //        public static String server = Servers.SWAPI_URL;
-        public static String server = Server.REQUESTBIN_URL;
+        public static String server = Server.JSON_PLACEHOLDER_URL;
         public static String path = "";
     }
 
