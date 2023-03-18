@@ -1,2 +1,2 @@
-# googleTestApi
+# restAssuredExamples
 rest assured examples
